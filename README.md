@@ -9,13 +9,13 @@ So I start research what is it & how to build one. And here we are, just a very 
 Put it all in the same folder and run file parser.py in your python console, you can open and edit the input.
 <br>
 Input (just a simple code) :
-````
+````python
 (sum + 47) / total
 ````
 
 <br>
 Output :
-````
+````python
 Next token is: 25 Next lexeme is (
 Enter <expr>
 Enter <term>
