@@ -15,7 +15,7 @@ Input (just a simple code) :
 
 <br>
 Output :
-````python
+```
 Next token is: 25 Next lexeme is (
 Enter <expr>
 Enter <term>
@@ -41,4 +41,4 @@ Enter <factor>
 Exit <factor>
 Exit <term>
 Exit <expr>
-````
+```
